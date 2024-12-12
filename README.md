@@ -10,10 +10,12 @@ This is an account of tracking my IAM Security path. Let's navigate through this
 * Programs
   - HTB (Hack the Box)
   - MS Learn
-  - --IAM Security Engineer 
+     - Microsoft Certified: Identity and Access Administrator Associate
   - THM (Try Hack Me)
-  - 
+    - Security Engineer Path
+  
 
 ## Practice, Practice, Practice
+* Home Lab Setup
 * Challenges
 * Projects
